@@ -1,0 +1,68 @@
+body {
+  background: linear-gradient(to top left, #ff33cc 0%, #00ccff 100%);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+}
+
+.page-header {
+  border:0px;
+}
+
+#main_title {
+  color: white;
+  font-family: 'Knewave', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#main_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 250px;
+  max-width: 220px;
+  border-radius: 20px;
+}
+
+.intro_div {
+  font-size: 17px;
+  color: black;
+  background: linear-gradient(to bottom left, #00cc99 0%, #ffff00 100%);
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+#intro {
+  padding: 30px 10px;
+}
+
+#sub_headings {
+  padding-top: 20px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Inknut Antiqua', serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#details {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.skill_div {
+  font-size: 16px;
+  color: black;
+  background: linear-gradient(to bottom left, #00cc99 0%, #ffff00 100%);
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
