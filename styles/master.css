@@ -12,6 +12,7 @@ body {
 
 .page-header {
   border:0px;
+  margin-top: 8rem;
 }
 
 #main_title {
@@ -80,4 +81,9 @@ body {
   font-size: 1rem;
   font-family: 'Josefin Slab', serif;
   padding: 30px 0px;
+}
+
+ul li {
+  margin: 0px 10px;
+  font-size: 1.20rem;
 }
